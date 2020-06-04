@@ -1,6 +1,6 @@
 ---
 title: REST API Design Best Practices
-date: "2018-12--3T00:00:00Z"
+date: "2018-12--3T00:00:000Z"
 template: "post"
 draft: false
 slug: "rest-api-design-best-practices"
