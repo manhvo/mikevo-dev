@@ -3,7 +3,7 @@ title: Cloud Cost Saving Strategy
 date: "2020-06-02T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
+slug: "cloud-cost-saving-strategy"
 category: "Ops"
 tags:
   - "Azure" 
