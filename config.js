@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Mike Vo Personal Website',
-  subtitle: 'Declare var, not war',
+  subtitle: 'Make code, not war',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Mike Vo',
     photo: '/photo.jpg',
-    bio: 'Declare var, not war',
+    bio: 'Make code, not war',
     contacts: {
       email: '',
       facebook: '#',
