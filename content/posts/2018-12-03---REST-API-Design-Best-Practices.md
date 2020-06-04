@@ -1,14 +1,13 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: REST API Design Best Practices
+date: "2018-12--3T00:00:00Z"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+slug: "rest-api-design-best-practices"
+category: "Dev"
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+  - "API"
+description: "Guideline how to design a performance API"
 socialImage: "/media/image-2.jpg"
 ---
 
